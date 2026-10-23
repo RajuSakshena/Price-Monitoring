@@ -1,0 +1,271 @@
+{
+  "source": "https://fcainfoweb.nic.in/Reports/DB/DBprices_W.aspx",
+  "report_type": "Daily Average Wholesale Prices Of Essential Commodities",
+  "report_date": "22/10/2026",
+  "scraped_at": "2026-10-23T04:52:05+00:00",
+  "currency": "INR",
+  "price_unit_note": "Wholesale prices are generally shown per quintal; use each row's displayed unit.",
+  "record_count": 26,
+  "data": [
+    {
+      "commodity": "Price As On",
+      "unit": "1 Week back",
+      "wholesale_price": 1.0,
+      "one_week_back": 6.0,
+      "one_month_back": 1.0,
+      "six_months_back": 2.0,
+      "one_year_back": null,
+      "two_years_back": null
+    },
+    {
+      "commodity": "22/10/2026",
+      "unit": "15/10/2026",
+      "wholesale_price": 22.0,
+      "one_week_back": 22.0,
+      "one_month_back": 22.0,
+      "six_months_back": 22.0,
+      "one_year_back": null,
+      "two_years_back": null
+    },
+    {
+      "commodity": "Broken Rice",
+      "unit": "100 Kg",
+      "wholesale_price": 3013.03,
+      "one_week_back": 3003.13,
+      "one_month_back": 2979.78,
+      "six_months_back": null,
+      "one_year_back": null,
+      "two_years_back": null
+    },
+    {
+      "commodity": "Rice",
+      "unit": "100 Kg",
+      "wholesale_price": 4278.42,
+      "one_week_back": 4273.69,
+      "one_month_back": 4169.0,
+      "six_months_back": 3842.85,
+      "one_year_back": 3882.74,
+      "two_years_back": 3907.05
+    },
+    {
+      "commodity": "Wheat",
+      "unit": "100 Kg",
+      "wholesale_price": 2902.82,
+      "one_week_back": 2893.68,
+      "one_month_back": 2875.97,
+      "six_months_back": 2773.83,
+      "one_year_back": 2884.67,
+      "two_years_back": 2851.78
+    },
+    {
+      "commodity": "Atta (Wheat)",
+      "unit": "100 Kg",
+      "wholesale_price": 3362.8,
+      "one_week_back": 3353.28,
+      "one_month_back": 3343.99,
+      "six_months_back": 3263.25,
+      "one_year_back": 3346.82,
+      "two_years_back": 3270.3
+    },
+    {
+      "commodity": "Gram Dal(Bharat Dal Adjusted)",
+      "unit": "100 Kg",
+      "wholesale_price": 7261.61,
+      "one_week_back": 7166.11,
+      "one_month_back": 6889.49,
+      "six_months_back": 6543.06,
+      "one_year_back": 6735.17,
+      "two_years_back": 7449.93
+    },
+    {
+      "commodity": "Gram Dal",
+      "unit": "100 Kg",
+      "wholesale_price": 8532.48,
+      "one_week_back": 8420.13,
+      "one_month_back": 8094.69,
+      "six_months_back": 7687.13,
+      "one_year_back": 7913.14,
+      "two_years_back": 8754.04
+    },
+    {
+      "commodity": "Tur/Arhar Dal",
+      "unit": "100 Kg",
+      "wholesale_price": 12295.18,
+      "one_week_back": 12148.7,
+      "one_month_back": 11559.25,
+      "six_months_back": 11247.35,
+      "one_year_back": 10539.94,
+      "two_years_back": 15250.7
+    },
+    {
+      "commodity": "Urad Dal",
+      "unit": "100 Kg",
+      "wholesale_price": 11618.07,
+      "one_week_back": 11532.01,
+      "one_month_back": 11360.09,
+      "six_months_back": 10810.95,
+      "one_year_back": 10427.43,
+      "two_years_back": 11516.83
+    },
+    {
+      "commodity": "Moong Dal",
+      "unit": "100 Kg",
+      "wholesale_price": 10468.31,
+      "one_week_back": 10439.97,
+      "one_month_back": 10236.78,
+      "six_months_back": 10182.4,
+      "one_year_back": 10150.85,
+      "two_years_back": 10661.95
+    },
+    {
+      "commodity": "Masoor Dal",
+      "unit": "100 Kg",
+      "wholesale_price": 8242.53,
+      "one_week_back": 8235.33,
+      "one_month_back": 8201.72,
+      "six_months_back": 8086.17,
+      "one_year_back": 8155.07,
+      "two_years_back": 8154.58
+    },
+    {
+      "commodity": "Sugar",
+      "unit": "100 Kg",
+      "wholesale_price": 5424.88,
+      "one_week_back": 5339.09,
+      "one_month_back": 5309.78,
+      "six_months_back": 4307.4,
+      "one_year_back": 4345.94,
+      "two_years_back": 4174.79
+    },
+    {
+      "commodity": "Milk (₹/100 ltr)",
+      "unit": "100 Ltr",
+      "wholesale_price": 5779.59,
+      "one_week_back": 5777.22,
+      "one_month_back": 5755.41,
+      "six_months_back": 5624.82,
+      "one_year_back": 5623.89,
+      "two_years_back": 5512.01
+    },
+    {
+      "commodity": "Groundnut Oil (Packed)",
+      "unit": "100 Kg",
+      "wholesale_price": 20026.74,
+      "one_week_back": 19990.34,
+      "one_month_back": 19847.38,
+      "six_months_back": 18852.14,
+      "one_year_back": 17777.21,
+      "two_years_back": 18223.34
+    },
+    {
+      "commodity": "Mustard Oil (Packed)",
+      "unit": "100 Kg",
+      "wholesale_price": 19588.9,
+      "one_week_back": 19505.41,
+      "one_month_back": 19237.81,
+      "six_months_back": 17884.42,
+      "one_year_back": 17827.61,
+      "two_years_back": 15439.17
+    },
+    {
+      "commodity": "Vanaspati (Packed)",
+      "unit": "100 Kg",
+      "wholesale_price": 15958.17,
+      "one_week_back": 15861.19,
+      "one_month_back": 15745.92,
+      "six_months_back": 14920.5,
+      "one_year_back": 14545.38,
+      "two_years_back": 12874.62
+    },
+    {
+      "commodity": "Soya Oil (Packed)",
+      "unit": "100 Kg",
+      "wholesale_price": 15852.05,
+      "one_week_back": 15788.23,
+      "one_month_back": 15719.2,
+      "six_months_back": 14902.14,
+      "one_year_back": 13834.34,
+      "two_years_back": 12819.28
+    },
+    {
+      "commodity": "Sunflower Oil (Packed)",
+      "unit": "100 Kg",
+      "wholesale_price": 18221.29,
+      "one_week_back": 18224.55,
+      "one_month_back": 18494.83,
+      "six_months_back": 17485.66,
+      "one_year_back": 15625.34,
+      "two_years_back": 13417.13
+    },
+    {
+      "commodity": "Palm Oil (Packed)",
+      "unit": "100 Kg",
+      "wholesale_price": 14533.76,
+      "one_week_back": 14496.8,
+      "one_month_back": 14438.0,
+      "six_months_back": 13451.76,
+      "one_year_back": 12514.78,
+      "two_years_back": 11638.07
+    },
+    {
+      "commodity": "Gur",
+      "unit": "100 Kg",
+      "wholesale_price": 5950.44,
+      "one_week_back": 5917.77,
+      "one_month_back": 5968.04,
+      "six_months_back": 5015.15,
+      "one_year_back": 5065.4,
+      "two_years_back": 4824.09
+    },
+    {
+      "commodity": "Tea Loose",
+      "unit": "100 Kg",
+      "wholesale_price": 24482.61,
+      "one_week_back": 24569.62,
+      "one_month_back": 24512.68,
+      "six_months_back": 24414.62,
+      "one_year_back": 24634.9,
+      "two_years_back": 24302.19
+    },
+    {
+      "commodity": "Salt Pack (Iodised)",
+      "unit": "100 Kg",
+      "wholesale_price": 1881.47,
+      "one_week_back": 1866.79,
+      "one_month_back": 1878.18,
+      "six_months_back": 1806.81,
+      "one_year_back": 1805.74,
+      "two_years_back": 1858.04
+    },
+    {
+      "commodity": "Potato",
+      "unit": "100 Kg",
+      "wholesale_price": 1689.81,
+      "one_week_back": 1700.87,
+      "one_month_back": 1722.67,
+      "six_months_back": 1494.52,
+      "one_year_back": 1976.45,
+      "two_years_back": 3048.63
+    },
+    {
+      "commodity": "Onion",
+      "unit": "100 Kg",
+      "wholesale_price": 4558.34,
+      "one_week_back": 4554.03,
+      "one_month_back": 4623.72,
+      "six_months_back": 1877.02,
+      "one_year_back": 2049.79,
+      "two_years_back": 4618.46
+    },
+    {
+      "commodity": "Tomato",
+      "unit": "100 Kg",
+      "wholesale_price": 3192.41,
+      "one_week_back": 3286.8,
+      "one_month_back": 3085.21,
+      "six_months_back": 2288.96,
+      "one_year_back": 3038.38,
+      "two_years_back": 5387.52
+    }
+  ]
+}
