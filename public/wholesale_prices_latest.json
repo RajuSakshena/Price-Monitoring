@@ -2,7 +2,7 @@
   "source": "https://fcainfoweb.nic.in/Reports/DB/DBprices_W.aspx",
   "report_type": "Daily Average Wholesale Prices Of Essential Commodities",
   "report_date": "02/11/2026",
-  "scraped_at": "2026-11-02T11:37:24+00:00",
+  "scraped_at": "2026-11-03T11:15:05+00:00",
   "currency": "INR",
   "price_unit_note": "Wholesale prices are generally shown per quintal; use each row's displayed unit.",
   "record_count": 26,
